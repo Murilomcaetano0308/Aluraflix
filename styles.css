@@ -2,12 +2,14 @@ body {
     color: rgb(0, 0, 0);
     background: rgb(49, 73, 173);
     margin: 0px;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 25;
 }
 
 header {
     border-bottom: solid 2px rgb(0, 0, 0);
     padding: 20px;
-    font-size: 32px;
+    font-size: 50px;
     color:rgb(0, 0, 0);
 }
 
